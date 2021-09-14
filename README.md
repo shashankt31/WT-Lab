@@ -21,14 +21,17 @@ d) Books catalog
 
 <img src="images/Catelog page.jpg"/>
 
-e) Shopping Cart
+e) Shopping Cart / New Arrival Page
 
-
+<img src="images/arrival.jpg"/>
 
 f) Payment By credit card
 
 <img src="images/customer service.jpg"/>
 
-g) Order Conformation
+g) Order Conformation / Award Winner Page
 
-Refer Customer service page -> which links to Order page
+For order conformation: Refer Customer service page -> which links to Order page
+
+<img src="images/awardwinner page.jpg"/>
+
