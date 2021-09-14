@@ -2,7 +2,7 @@
 Web Technologies Lab
 
 
-Lab Program 5:
+## Lab Program 5:
 
 Develop static pages (using Only HTML) of an online book store. The pages should resemble: www.amazon.com. The website should consist the following pages.
 
