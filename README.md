@@ -23,6 +23,8 @@ d) Books catalog
 
 e) Shopping Cart
 
+Refer Customer service page -> which links to Order page
+
 f) Payment By credit card
 
 <img src="images/customer service.jpg"/>
