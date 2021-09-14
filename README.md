@@ -7,6 +7,7 @@ Web Technologies Lab
 Develop static pages (using Only HTML) of an online book store. The pages should resemble: www.amazon.com. The website should consist the following pages.
 
 a) Home page
+<img src="images/Main Page.jpg"/>
 
 b) Registration and user Login
 
