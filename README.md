@@ -35,3 +35,8 @@ For order conformation: Refer Customer service page -> which links to Order page
 
 <img src="images/awardwinner page.jpg"/>
 
+h) Best seller and Author Page
+
+<img src="images/best seller.jpg"/>
+
+<img src="images/author.jpg"/>
