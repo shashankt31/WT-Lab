@@ -14,9 +14,9 @@ b) Registration and user Login
 <img src="images/Login Page.jpg"/>
 
 c) User Profile Page
-
+<img src="images/Profile Page.jpg"/>
 d) Books catalog
-
+<img src="images/Catelog page.jpg"/>
 e) Shopping Cart
 
 f) Payment By credit card
