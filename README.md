@@ -10,8 +10,8 @@ a) Home page
 <img src="images/Main Page.jpg"/>
 
 b) Registration and user Login
-<img src="User Registration Page.png"/>
-<img src="Login Page.jpg"/>
+<img src="images/User Registration Page.png"/>
+<img src="images/Login Page.jpg"/>
 
 c) User Profile Page
 
