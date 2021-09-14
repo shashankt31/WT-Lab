@@ -25,4 +25,6 @@ e) Shopping Cart
 
 f) Payment By credit card
 
+<img src="images/customer service.jpg"/>
+
 g) Order Conformation
