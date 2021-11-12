@@ -1,6 +1,13 @@
 # WT-Lab
 Web Technologies Lab
 
+<img src="images/1.jpg"/>
+
+<img src="images/2.jpg"/>
+
+<img src="images/3.jpg"/>
+
+<img src="images/4.jpg"/>
 
 ## Lab Program 5:
 
