@@ -5,9 +5,9 @@ Web Technologies Lab
 
 <img src="images/2.jpg"/>
 
-<img src="images/3.jpg"/>
+<img src="images/img3.jpg"/>
 
-<img src="images/4.jpg"/>
+<img src="images/img4.jpg"/>
 
 ## Lab Program 5:
 
